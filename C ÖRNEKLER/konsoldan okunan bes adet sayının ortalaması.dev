@@ -1,6 +1,6 @@
 [Project]
-FileName=bir sayýnýn karekökünü hesaplayan fonksiyon.dev
-Name=bir sayýnýn karekökünü hesaplayan fonksiyon
+FileName=konsoldan okunan bes adet sayýnýn ortalamasý.dev
+Name=konsoldan okunan bes adet sayýnýn ortalamasý
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=bir sayýnýn karekökünü hesaplayan fonksiyon.c
+FileName=konsoldan okunan bes adet sayýnýn ortalamasý.c
 CompileCpp=0
 Folder=
 Compile=1
